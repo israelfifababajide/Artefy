@@ -107,6 +107,6 @@ Tests are written using Vitest and can be run with:
 npm test
 ```
 
-## License
+## **License**
 
 MIT License
